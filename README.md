@@ -1,2 +1,2 @@
 # shell_lock
-SHELL_LOCK - The linux shell protector script
+SHELL_LOCK - open source linux shell protector script
